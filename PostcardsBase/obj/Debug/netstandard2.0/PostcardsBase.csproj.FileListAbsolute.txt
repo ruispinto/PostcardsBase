@@ -1,0 +1,14 @@
+D:\Work\repos\PostcardsBase\PostcardsBase\bin\Debug\netstandard2.0\PostcardsBase.deps.json
+D:\Work\repos\PostcardsBase\PostcardsBase\bin\Debug\netstandard2.0\PostcardsBase.dll
+D:\Work\repos\PostcardsBase\PostcardsBase\bin\Debug\netstandard2.0\ref\PostcardsBase.dll
+D:\Work\repos\PostcardsBase\PostcardsBase\bin\Debug\netstandard2.0\PostcardsBase.pdb
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\PostcardsBase.AssemblyInfoInputs.cache
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\PostcardsBase.AssemblyInfo.cs
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\PostcardsBase.csproj.CoreCompileInputs.cache
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\PostcardsBase.dll
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\ref\PostcardsBase.dll
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\PostcardsBase.pdb
+D:\Work\repos\PostcardsBase\PostcardsBase\obj\Debug\netstandard2.0\PostcardsBase.csprojAssemblyReference.cache

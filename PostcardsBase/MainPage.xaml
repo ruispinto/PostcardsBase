@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                x:Class="PostcardsBase.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".25*"/>
+            <RowDefinition Height=".2*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+            <RowDefinition Height=".35*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".20*"/>
+            <ColumnDefinition Width=".30*"/>
+            <ColumnDefinition Width=".05*"/>
+            <ColumnDefinition Width=".45*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Text="Rui's Postcards" FontAttributes="Bold" HorizontalTextAlignment="Center" FontSize="Large" BackgroundColor="AntiqueWhite"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Text="Card Number" HorizontalTextAlignment="Center" FontSize="Body" BackgroundColor="CadetBlue"/>
+        <Label Grid.Row="1" Grid.Column="1" Text="Publisher" HorizontalTextAlignment="Center" FontSize="Body" BackgroundColor="CadetBlue"/>
+        <Label Grid.Row="1" Grid.Column="2" Text="Or." HorizontalTextAlignment="Center" FontSize="Body" BackgroundColor="CadetBlue"/>
+        <Label Grid.Row="1" Grid.Column="3" Text="Size" HorizontalTextAlignment="Center" FontSize="Body" BackgroundColor="CadetBlue"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Text="C1980CEPT" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="2" Grid.Column="1" Text="CTT" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="2" Grid.Column="2" Text="V" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="2" Grid.Column="3" Text="Regular (105 x 150mm / 4,13 x 5,91in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Text="E19A020" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="3" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="3" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="3" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="4" Grid.Column="0" Text="E19A038" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="4" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="4" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="4" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="5" Grid.Column="0" Text="E19A164" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="5" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="5" Grid.Column="2" Text="V" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="5" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="6" Grid.Column="0" Text="E19A180" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="6" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="6" Grid.Column="2" Text="V" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="6" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="7" Grid.Column="0" Text="E19A196" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="7" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="7" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="7" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="8" Grid.Column="0" Text="E19A198" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="8" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="8" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="8" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="9" Grid.Column="0" Text="E19A207" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="9" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="9" Grid.Column="2" Text="V" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="9" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="10" Grid.Column="0" Text="E19A245" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="10" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="10" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="10" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="11" Grid.Column="0" Text="E19A251" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="11" Grid.Column="1" Text="Edições 19 Abril" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="11" Grid.Column="2" Text="V" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="11" Grid.Column="3" Text="Large 1 (110 x 160mm / 4,33 x 6,3in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="12" Grid.Column="0" Text="G001" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="12" Grid.Column="1" Text="Graful" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="12" Grid.Column="2" Text="V" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="12" Grid.Column="3" Text="Regular (105 x 150mm / 4,13 x 5,91in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="13" Grid.Column="0" Text="OVP20633" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="13" Grid.Column="1" Text="Olimar / Vistal / Postalis" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="13" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="13" Grid.Column="3" Text="Regular (105 x 150mm / 4,13 x 5,91in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="14" Grid.Column="0" Text="OVP161822" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="14" Grid.Column="1" Text="Olimar / Vistal / Postalis" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="14" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="14" Grid.Column="3" Text="Regular (105 x 150mm / 4,13 x 5,91in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="15" Grid.Column="0" Text="OVP161859" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="15" Grid.Column="1" Text="Olimar / Vistal / Postalis" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="15" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="15" Grid.Column="3" Text="Regular (105 x 150mm / 4,13 x 5,91in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="16" Grid.Column="0" Text="OVP161860" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="16" Grid.Column="1" Text="Olimar / Vistal / Postalis" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="16" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="16" Grid.Column="3" Text="Regular (105 x 150mm / 4,13 x 5,91in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+        <Label Grid.Row="17" Grid.Column="0" Text="OVP171889" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="17" Grid.Column="1" Text="Olimar / Vistal / Postalis" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="17" Grid.Column="2" Text="H" HorizontalTextAlignment="Center" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+        <Label Grid.Row="17" Grid.Column="3" Text="Regular (105 x 150mm / 4,13 x 5,91in)" FontSize="Small" TextColor="AntiqueWhite" BackgroundColor="Black"/>
+
+    </Grid>
+
+</ContentPage>
